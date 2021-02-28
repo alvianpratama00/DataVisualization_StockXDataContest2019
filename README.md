@@ -1,4 +1,6 @@
+<pre>
+StockX Data Visualization
+This project was created with the aim of creating an online clothing store using HTML, JavaScript, MYSQL, and PHP
+</pre>
 
-<h1> StockX Data Visualization <h1>
-<p>This project was created with the aim of <p>
 
