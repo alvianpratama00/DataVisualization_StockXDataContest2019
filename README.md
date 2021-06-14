@@ -1,3 +1,3 @@
 
 <h1>StockX Data Visualization</h1>
-<p>Creating data visualizations (clustering, forecasting) from The StockX Data Contest 2019 using Tableau Software. </p>
+<p>Analyzed transaction data and designed visualizations (clustering, forecasting) for future sales by using Tableau. </p>
